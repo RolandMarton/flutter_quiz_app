@@ -1,16 +1,9 @@
 # quiz_app
 
-A new Flutter project.
+This is a quizz application about Flutter made with Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+ <img src="https://github.com/RolandMarton/flutter_quiz_app/assets/88943189/1d4515e8-3276-46c0-8faf-7bc6e113e7d2" width="30%"></img> 
+ <img src="https://github.com/RolandMarton/flutter_quiz_app/assets/88943189/42877f62-3d4c-4375-9101-569c4384faea" width="30%"></img> 
+ <img src="https://github.com/RolandMarton/flutter_quiz_app/assets/88943189/460c989c-e39a-45a6-9943-bc1b145d9f73" width="30%"></img> 
+</div>
